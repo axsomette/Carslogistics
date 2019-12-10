@@ -1,0 +1,11 @@
+.a{
+    -webkit-text-stroke: 3.0px #000000;
+    -webkit-text-fill-color: #FFFFFF;   
+
+  
+}
+.red {
+    background-color: red;
+    width: 100px;
+    height: 60px;
+}
