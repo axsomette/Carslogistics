@@ -3,9 +3,10 @@
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta charset="UTF-8">
+ <link rel="icon" type="image/png" href="img/icone.png" />
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="./css/style.css">
-	<title>Cars-logistics.fr</title>
+	<title>Mon colis</title>
 </head>
 <body>
 	<?php include('nav.php');?>
@@ -27,15 +28,15 @@
          	  		<div class="checkbox">
          	  			<div class = "titre3">J'attend un colis ?</div>
          	  			<label class="container">GLS
-                            <input type="checkbox">
+                            <input class="input3" type="checkbox">
                              <span class="checkmark"></span>
                         </label>
                         <label class="container">Colis privé
-                             <input type="checkbox">
+                             <input class="input3" type="checkbox">
                              <span class="checkmark"></span>
                         </label>
                         <label class="container">Ciblex
-                             <input type="checkbox">
+                             <input class="input3" type="checkbox">
                              <span class="checkmark"></span>
                         </label>
                         <div>
